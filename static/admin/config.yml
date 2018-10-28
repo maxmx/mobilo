@@ -1,0 +1,28 @@
+backend:
+  name: github
+  repo: maxmx/mobilo
+  branch: master
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: "artistes"
+    label: "Artistes"
+    folder: "src/pages/artistes"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "artiste"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Name", name: "name", widget: "string"}
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "src/pages/index.md"
+        label: "Home"
+        name: "home"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "home-page"}
+          - {label: "Title", name: "title", widget: "string"}

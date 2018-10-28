@@ -1,0 +1,16 @@
+{
+  "root": true,
+  "extends": ["airbnb", "plugin:prettier/recommended", "prettier/react"],
+  "rules": {
+    "no-console": ["error", { "allow": ["warning", "error"] }],
+    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
+    "react/prop-types": [0]
+  },
+  "env": {
+    "amd": true,
+    "browser": true,
+    "node": true,
+    "jest": true
+  },
+  "parser": "babel-eslint"
+}

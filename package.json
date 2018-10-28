@@ -1,10 +1,52 @@
 {
   "name": "drmobilo.com",
   "version": "0.1.0",
-  "description": "Website for Dr. Mobilo Aquafest",
-  "main": "index.js",
+  "description": "Dr. Mobilo Aquafest Website",
+  "main": "n/a",
   "repository": "git@github.com:maxmx/mobilo.git",
   "author": "maxmx <maximeb@gmail.com>",
+  "dependencies": {
+    "gatsby": "^2.0.0",
+    "gatsby-plugin-netlify-cms": "^3.0.0",
+    "gatsby-plugin-react-helmet": "^3.0.0",
+    "gatsby-plugin-sharp": "^2.0.5",
+    "gatsby-remark-images": "^2.0.1",
+    "gatsby-source-filesystem": "^2.0.1",
+    "gatsby-transformer-remark": "^2.1.1",
+    "gatsby-transformer-sharp": "^2.1.1",
+    "netlify-cms": "^2.1.1",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-helmet": "^5.2.0",
+    "styled-components": "^4.0.2"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "start": "yarn develop",
+    "clean": "rm -rf .cache && rm -rf public",
+    "build": "yarn clean && gatsby build",
+    "develop": "yarn clean && gatsby develop",
+    "serve": "gatsby serve",
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-regenerator": "^7.0.0",
+    "@babel/plugin-transform-runtime": "^7.1.0",
+    "babel-eslint": "^10.0.1",
+    "babel-plugin-import": "^1.10.0",
+    "babel-plugin-styled-components": "^1.8.0",
+    "eslint": "^4.4.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "^2.6.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-prettier": "^2.3.1",
+    "eslint-plugin-react": "^7.9.1",
+    "prettier": "^1.7.4"
+  },
   "license": "none",
   "private": true
 }
