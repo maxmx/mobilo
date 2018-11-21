@@ -15,3 +15,7 @@ $ yarn start
 ```
 $ yarn build
 ```
+
+### Access Netlify
+
+Go to https://www.drmobilo.com/admin/
