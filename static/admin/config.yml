@@ -1,0 +1,75 @@
+backend:
+  name: github
+  repo: maxmx/mobilo
+  branch: master
+
+media_folder: static/img
+public_folder: /img
+
+collections:
+  - name: "artistes"
+    label: "Artistes"
+    folder: "src/pages/artistes"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "artiste"}
+      - {label: "Type", name: "type", widget: "hidden", default: "artiste"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Content", name: "body", widget: "markdown"}
+
+  - name: "scenes"
+    label: "Scenes"
+    folder: "src/pages/scenes"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Type", name: "type", widget: "hidden", default: "scene"}
+      - {label: "Title", name: "title", widget: "string"}
+
+  - name: "spectacles"
+    label: "Spectacles"
+    folder: "src/pages/spectacles"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "spectacle"}
+      - {label: "Type", name: "type", widget: "hidden", default: "spectacle"}
+      - {label: "Title", name: "title", widget: "string"}
+      -  label: "Représentations"
+         name: "dates"
+         widget: "list"
+         fields:
+          - {label: "Date", name: "date", widget: "datetime"}
+          - {label: "Billets", name: "billet", widget: "string"}
+      - {label: "Poster", name: "poster", widget: "image", default: "/img/aquafest-2019.png"}
+      - label: "Scène"
+        name: "scene"
+        widget: "relation"
+        collection: "scenes"
+        searchFields: ["title"]
+        valueField: "title"
+        displayFields: ["title"]
+      - label: "Artistes"
+        name: "artistes"
+        widget: "list"
+        field:
+          label: "artiste"
+          name: "artiste"
+          widget: "relation"
+          collection: "artistes"
+          searchFields: ["title"]
+          valueField: "title"
+          displayFields: ["title"]
+      - {label: "Content", name: "body", widget: "markdown"}
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "src/pages/index.md"
+        label: "Home"
+        name: "home"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "home-page"}
+          - {label: "Title", name: "title", widget: "string"}
