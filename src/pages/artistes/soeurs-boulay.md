@@ -2,5 +2,5 @@
 templateKey: artiste
 type: artiste
 title: Les Soeurs Boulay
-image: /img/artistes/portrait-default.jpg
+image: /img/artiste-les-soeurs-boulay.png
 ---

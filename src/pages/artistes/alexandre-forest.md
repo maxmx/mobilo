@@ -2,5 +2,7 @@
 templateKey: artiste
 type: artiste
 title: Alexandre Forest
-image: /img/artistes/portrait-default.jpg
+image: /img/artiste-alexandre-forest.png
 ---
+
+<small>Crédit photo: [Marianne Plaisance](https://www.facebook.com/marianneplaisance/)</small>

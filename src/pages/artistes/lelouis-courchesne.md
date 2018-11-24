@@ -2,5 +2,6 @@
 templateKey: artiste
 type: artiste
 title: LeLouis Courchesne
-image: /img/artistes/portrait-default.jpg
+image: /img/artiste-lelouis-courchesne.png
 ---
+<small>Crédit photo: [Andréanne Gauthier](https://www.andreanneg.com/)</small>

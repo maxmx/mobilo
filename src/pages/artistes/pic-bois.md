@@ -2,5 +2,7 @@
 templateKey: artiste
 type: artiste
 title: Les Pic-Bois
-image: /img/artistes/portrait-default.jpg
+image: /img/artiste-pic-bois.png
 ---
+
+<small>Crédit photo: [Julie Artacho](http://www.coeurdartacho.com/)</small>

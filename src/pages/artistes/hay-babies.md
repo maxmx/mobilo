@@ -2,5 +2,5 @@
 templateKey: artiste
 type: artiste
 title: Les Hay Babies
-image: /img/artistes/portrait-default.jpg
+image: /img/artiste-hay-babies.png
 ---

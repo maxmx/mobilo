@@ -2,5 +2,7 @@
 templateKey: artiste
 type: artiste
 title: Kandle
-image: /img/artistes/portrait-default.jpg
+image: /img/artiste-kandle.png
 ---
+
+<small>Crédit photo: [John Londono](https://www.facebook.com/JohnnyLondono/)</small>

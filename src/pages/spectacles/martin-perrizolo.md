@@ -1,14 +1,14 @@
 ---
 templateKey: spectacle
 type: spectacle
-title: Martin Perrizolo
+title: Martin Perizzolo
 dates:
   - billet: 'http://theatrefairmount.tunestub.com/event.cfm?cart&id=290155'
     date: 2019-05-08T23:30:00.000Z
 poster: /img/poster-aquafest-2019.png
 scene: Théâtre Fairmount
 artistes:
-  - Martin Perrizolo
+  - Martin Perizzolo
 ---
 Note d’intention : Ce projet de spectacle en est un de retour aux sources, de reconnexion. Retrouver qui j’étais avant, quand l’envie de monter sur scène, seul et armé d’un micro, m’a bougé pour la première fois. Je me souviens d’avoir déjà eu ce ton malhabile, mais pur, qui réapparait parfois, mais jamais pour longtemps. Enterré sous toutes ces couches d’expérience, de procédés, de règles, inculquées par l’industrie et apprises par survie, pour plaire, me plaire à travers le rire des autres. 
 

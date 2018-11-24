@@ -2,5 +2,6 @@
 templateKey: artiste
 type: artiste
 title: Léane Labrèche D'Or
-image: /img/artistes/portrait-default.jpg
+image: /img/artiste-leane-labreche-dor.png
 ---
+<small>Crédit photo: [Julie Artacho](http://www.coeurdartacho.com/)</small>

@@ -2,5 +2,5 @@
 templateKey: artiste
 type: artiste
 title: Marie-Christine Lemieux Couture
-image: /img/artistes/portrait-default.jpg
+image: /img/artiste-mclc.png
 ---
