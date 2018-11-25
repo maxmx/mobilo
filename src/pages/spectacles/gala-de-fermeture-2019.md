@@ -5,7 +5,7 @@ title: Gala de Fermeture – Dr. Mobilo Aquafest
 dates: 
   - billet: 'https://www.example.com'
     date: 2019-05-12T00:00:11.617Z
-poster: /img/poster-aquafest-2019.png
+poster: '/img/poster-aquafest-2019.png'
 scene: Grand Théâtre Rialto
 artistes:
   - Virginie Fortin

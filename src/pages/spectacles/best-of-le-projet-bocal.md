@@ -5,7 +5,7 @@ title: Best of Le Projet Bocal
 dates:
   - billet: 'http://theatrefairmount.tunestub.com/event.cfm?cart&id=290159'
     date: 2019-05-10T23:30:23.529Z
-poster: /img/poster-aquafest-2019.png
+poster: ''
 scene: Théâtre Fairmount
 artistes:
   - Le Projet Bocal

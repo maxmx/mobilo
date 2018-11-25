@@ -5,7 +5,7 @@ title: Inutile
 dates:
   - billet: 'https://www.example.com'
     date: 2019-05-08T02:00:00.000Z
-poster: /img/poster-aquafest-2019.png
+poster: ''
 scene: Théâtre Rialto Hall
 artistes:
   - Alexandre Forest

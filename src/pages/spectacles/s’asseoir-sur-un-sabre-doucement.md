@@ -5,7 +5,7 @@ title: 'S’asseoir sur un sabre, doucement'
 dates:
   - billet: 'https://www.example.com'
     date: 2019-05-06T23:30:00.000Z
-poster: /img/poster-aquafest-2019.png
+poster: ''
 scene: Théâtre Rialto Hall
 artistes:
   - Catherine Éthier

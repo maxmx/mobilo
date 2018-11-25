@@ -5,7 +5,7 @@ title: Gala d’ouverture – Dr. Mobilo Aquafest
 dates: 
   - billet: 'https://billetterie.theatreoutremont.ca/evtarifs.aspx?qty_ticket=0&language=FR&owner=198&event=2382'
     date: 2019-05-05T00:00:32.225Z
-poster: /img/poster-aquafest-2019.png
+poster: '/img/poster-aquafest-2019.png'
 scene: Théâtre Outremont
 artistes:
   - Les Denis Drolet

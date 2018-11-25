@@ -5,7 +5,7 @@ title: Féministe killjoy
 dates:
   - billet: 'https://www.example.com'
     date: 2019-05-10T23:30:00.000Z
-poster: /img/poster-aquafest-2019.png
+poster: ''
 scene: Théâtre Rialto Hall
 artistes:
   - Marie-Christine Lemieux Couture

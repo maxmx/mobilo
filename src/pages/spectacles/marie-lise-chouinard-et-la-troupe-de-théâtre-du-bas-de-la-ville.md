@@ -5,7 +5,7 @@ title: Marie-Lise Chouinard et la troupe de Théâtre du bas de la ville
 dates:
   - billet: 'https://www.example.com'
     date: 2019-05-10T02:00:00.000Z
-poster: /img/poster-aquafest-2019.png
+poster: ''
 scene: Théâtre Rialto Hall
 artistes:
   - Marie-Lise Chouinard

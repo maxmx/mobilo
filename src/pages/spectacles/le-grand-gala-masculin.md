@@ -5,7 +5,7 @@ title: Le Grand Gala Masculin
 dates:
   - billet: 'http://theatrefairmount.tunestub.com/event.cfm?cart&id=290148'
     date: 2019-05-06T02:00:58.371Z
-poster: /img/poster-aquafest-2019.png
+poster: ''
 scene: Théâtre Fairmount
 artistes:
   - Coco Belliveau

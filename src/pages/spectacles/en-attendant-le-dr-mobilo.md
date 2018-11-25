@@ -7,7 +7,7 @@ dates:
     date: 2019-05-05T23:30:15.692Z
   - billet: 'http://theatrefairmount.tunestub.com/event.cfm?cart&id=290150'
     date: 2019-05-07T02:00:00.000Z
-poster: /img/poster-aquafest-2019.png
+poster: ''
 scene: Théâtre Fairmount
 artistes:
   - Les Denis Drolet

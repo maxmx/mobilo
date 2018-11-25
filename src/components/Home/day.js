@@ -3,7 +3,8 @@ import { Col } from 'react-styled-flexboxgrid';
 import { Margin } from 'styled-components-spacing';
 import Img from 'gatsby-image';
 
-import { Artiste, Title, Time, Link, Day } from './styles';
+import PlaceHolder from './placeholder';
+import { Artiste, Title, Time, Link, Day, Overlayer } from './styles';
 
 const colors = ['#860000', '#aa2d2d', '#ef9635', '#fcc163', '#f2b39e', '#62ddd7', '#03938c', '#16716e'];
 
@@ -18,7 +19,14 @@ export default ({ shows = [], images, index }) => (
             </Day>
           }
           <Margin bottom={{ xs: 3 }}>
-            <Img fluid={images[poster]} />
+            <Overlayer>
+              <PlaceHolder {...{ color: colors[index], index, title }} />
+              {images[poster] && (
+                <div>
+                  <Img fluid={images[poster]} />
+                </div>
+              )}
+            </Overlayer>
           </Margin>
           <p>
             <Artiste>{artistes.length > 1 ? 'Artistes Variés' : artistes[0]}</Artiste>

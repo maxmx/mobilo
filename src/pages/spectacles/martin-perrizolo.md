@@ -5,7 +5,7 @@ title: Martin Perizzolo
 dates:
   - billet: 'http://theatrefairmount.tunestub.com/event.cfm?cart&id=290155'
     date: 2019-05-08T23:30:00.000Z
-poster: /img/poster-aquafest-2019.png
+poster: ''
 scene: Théâtre Fairmount
 artistes:
   - Martin Perizzolo

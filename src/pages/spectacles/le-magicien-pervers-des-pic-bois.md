@@ -5,7 +5,7 @@ title: Le Magicien Pervers des Pic-Bois
 dates:
   - billet: 'http://theatrefairmount.tunestub.com/event.cfm?cart&id=290160'
     date: 2019-05-11T02:00:00.000Z
-poster: /img/poster-aquafest-2019.png
+poster: ''
 scene: Théâtre Fairmount
 artistes:
   - Les Pic-Bois

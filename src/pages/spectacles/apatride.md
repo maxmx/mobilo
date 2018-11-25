@@ -7,7 +7,7 @@ dates:
     date: 2019-05-06T23:30:27.980Z
   - billet: 'http://theatrefairmount.tunestub.com/event.cfm?cart&id=290154'
     date: 2019-05-08T02:00:00.000Z
-poster: /img/poster-aquafest-2019.png
+poster: ''
 scene: Théâtre Fairmount
 artistes:
   - Adib Alkhalidey
