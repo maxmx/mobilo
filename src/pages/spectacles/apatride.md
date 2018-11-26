@@ -12,4 +12,4 @@ scene: Théâtre Fairmount
 artistes:
   - Adib Alkhalidey
 ---
-N’eûssent été Victor Hugo, Saddam Hussein et un inconnu qui se masturba devant son père, à Buffalo, en 1989, Adib n’aurait jamais abouti au Québec. Dans cette version préliminaire de son troisième spectacle solo, Alkhalidey vous raconte la constitution d’un apatride.
+N’eûssent été Victor Hugo, Saddam Hussein et un inconnu qui se masturba devant son père, à Buffalo, en 1989, Adib n’aurait jamais abouti au Québec. Dans cette version préliminaire de son troisième spectacle solo, Alkhalidey vous raconte la construction d’un apatride.
