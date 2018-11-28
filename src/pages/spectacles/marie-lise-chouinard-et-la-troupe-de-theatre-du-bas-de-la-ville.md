@@ -3,7 +3,7 @@ templateKey: spectacle
 type: spectacle
 title: Marie-Lise Chouinard et la troupe de Théâtre du bas de la ville
 dates:
-  - billet: 'https://www.example.com'
+  - billet: 'https://secure.ticketpro.ca/?lang=en&server=ww1#def_1311103811'
     date: 2019-05-10T02:00:00.000Z
 poster: ''
 scene: Théâtre Rialto Hall

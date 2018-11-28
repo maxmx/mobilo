@@ -3,7 +3,7 @@ templateKey: spectacle
 type: spectacle
 title: Laide
 dates:
-  - billet: 'https://www.example.com'
+  - billet: 'https://secure.ticketpro.ca/?lang=en&server=ww1#def_1311103811'
     date: 2019-05-11T02:00:00.000Z
 poster: /img/poster-laide.png
 scene: Théâtre Rialto Hall

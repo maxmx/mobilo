@@ -8,8 +8,9 @@ const prefix = slug => `${process.env.GATSBY_SITE_URL}${slug}`;
 export default props => {
   const helmet = { ...defaults, ...props };
   const { title, description, image, type, slug } = helmet;
+  const defaultImg = image || defaults.image;
   const link = prefix(slug);
-  const img = prefix(image);
+  const img = prefix(defaultImg);
 
   return (
     <Helmet

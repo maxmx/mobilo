@@ -3,7 +3,7 @@ templateKey: spectacle
 type: spectacle
 title: 'S’asseoir sur un sabre, doucement'
 dates:
-  - billet: 'https://www.example.com'
+  - billet: 'https://secure.ticketpro.ca/?lang=en&server=ww1#def_1311103811'
     date: 2019-05-06T23:30:00.000Z
 poster: ''
 scene: Théâtre Rialto Hall

@@ -3,7 +3,7 @@ templateKey: spectacle
 type: spectacle
 title: Jo and the Golden Kimono
 dates:
-  - billet: 'https://www.example.com'
+  - billet: 'https://secure.ticketpro.ca/?lang=en&server=ww1#def_1311103811'
     date: 2019-05-07T02:00:00.000Z
 poster: /img/poster-jo-and-the-golden-kimono.png
 scene: Théâtre Rialto Hall

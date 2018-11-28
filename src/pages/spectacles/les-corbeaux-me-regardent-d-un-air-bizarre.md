@@ -3,7 +3,7 @@ templateKey: spectacle
 type: spectacle
 title: Les corbeaux me regardent d’un air bizarre
 dates:
-  - billet: 'https://www.example.com'
+  - billet: 'https://secure.ticketpro.ca/?lang=en&server=ww1#def_1311103811'
     date: 2019-05-08T23:30:00.000Z
 poster: /img/poster-les-corbeaux-me-regardent.png
 scene: Théâtre Rialto Hall

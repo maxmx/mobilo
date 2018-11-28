@@ -3,7 +3,7 @@ templateKey: spectacle
 type: spectacle
 title: Gala de Fermeture – Dr. Mobilo Aquafest
 dates: 
-  - billet: 'https://www.example.com'
+  - billet: 'https://secure.ticketpro.ca/?lang=en&server=ww1#def_1311103811'
     date: 2019-05-12T00:00:11.617Z
 poster: '/img/poster-aquafest-2019.png'
 scene: Grand Théâtre Rialto
