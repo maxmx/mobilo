@@ -58,7 +58,7 @@ export const pageQuery = graphql`
     allImageSharp(filter: { original: { src: { regex: "/poster/" } } }) {
       edges {
         node {
-          fluid(maxWidth: 780) {
+          fluid(maxWidth: 200) {
             ...GatsbyImageSharpFluid
             originalName
           }

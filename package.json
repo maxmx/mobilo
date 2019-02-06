@@ -36,7 +36,7 @@
   ],
   "scripts": {
     "start": "yarn develop",
-    "clean": "rm -rf .cache && rm -rf public",
+    "clean": "rm -rf .cache && rm -rf public && rm -rf dist",
     "build": "yarn clean && gatsby build",
     "develop": "yarn clean && gatsby develop",
     "serve": "gatsby serve",
