@@ -7,7 +7,7 @@ dates:
     date: 2019-05-09T23:30:00.000Z
   - billet: 'http://theatrefairmount.tunestub.com/event.cfm?cart&id=290158'
     date: 2019-05-10T02:00:00.000Z
-poster: ''
+poster: /img/poster-donovan-est-ce-toi.png
 scene: Théâtre Fairmount
 artistes:
   - Virginie Fortin
