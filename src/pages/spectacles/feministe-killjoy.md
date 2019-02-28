@@ -5,7 +5,7 @@ title: Féministe killjoy
 dates:
   - billet: 'https://secure.ticketpro.ca/?lang=en&server=ww1#def_1311103811'
     date: 2019-05-10T23:30:00.000Z
-poster: ''
+poster: /img/poster-mclc.png
 scene: Théâtre Rialto Hall
 artistes:
   - Marie-Christine Lemieux Couture
