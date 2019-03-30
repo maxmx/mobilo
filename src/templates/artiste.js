@@ -52,10 +52,6 @@ export const pageQuery = graphql`
             title
             artistes
             poster
-            dates {
-              billet
-              date
-            }
           }
         }
       }

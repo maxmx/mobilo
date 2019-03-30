@@ -5,7 +5,7 @@ title: Best of Le Projet Bocal
 dates:
   - billet: 'http://theatrefairmount.tunestub.com/event.cfm?cart&id=290159'
     date: 2019-05-10T23:30:23.529Z
-poster: ''
+poster: /img/poster-projet-bocal.png
 scene: Théâtre Fairmount
 artistes:
   - Le Projet Bocal

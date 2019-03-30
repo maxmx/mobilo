@@ -1,11 +1,11 @@
 ---
 templateKey: spectacle
 type: spectacle
-title: 'Charles et Maude s’emmêlent : Le Processus'
+title: Processus
 dates:
   - billet: 'http://theatrefairmount.tunestub.com/event.cfm?cart&id=290156'
     date: 2019-05-09T02:00:00.000Z
-poster: ''
+poster: /img/poster-processus.png
 scene: Théâtre Fairmount
 artistes:
   - Maude Landry

@@ -29,7 +29,7 @@ export default ({ shows = [], images, index }) => (
             </Overlayer>
           </Margin>
           <p>
-            <Artiste>{artistes.length > 1 ? 'Artistes Variés' : artistes[0]}</Artiste>
+            <Artiste>{artistes.length > 2 ? 'Artistes Variés' : artistes.join(' & ')}</Artiste>
             <br />
             <Title>{title}</Title>
             <br />
