@@ -20,11 +20,10 @@ Une épopée musicale intersidérale présentant la vie, la mort et les exploits
 _Lovemichel_
 
 
+Mettant en vedette : Virginie Fortin, Léane Labrèche d’Or, Bernard Fortin, Vincent Fafard, Frédéric Lavallée, Olivia Palacci, Marc-Antoine Sinibaldi
 
-Mettant en vedette : Virginie Fortin, Léane Labrèche d’Or et Michel 
+Texte/Paroles : Philippe Cigna 
 
-Textes et Paroles : Philippe Cigna 
+Musique : Mathieu Séguin et Guillaume Marchand
 
-Musique : Mathieu Séguin, Guillaume Marchand
-
-Mise en scène : Alice Pascual
+Mise en scène : Alice Pascual et Philippe Cigna 
