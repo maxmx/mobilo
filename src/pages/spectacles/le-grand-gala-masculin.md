@@ -5,7 +5,7 @@ title: Le Grand Gala Masculin
 dates:
   - billet: 'http://theatrefairmount.tunestub.com/event.cfm?cart&id=290148'
     date: 2019-05-06T02:00:58.371Z
-poster: ''
+poster: /img/poster-gala-masculin.png
 scene: Théâtre Fairmount
 artistes:
   - Coco Belliveau
@@ -13,6 +13,7 @@ artistes:
   - Rosalie Vaillancourt
   - Alexandre Forest
   - Catherine Éthier
+  - Aliya Kanani
 ---
 Dans toutes les déclinaisons de l’humour, les hommes ont pris d’assaut et enrichi la scène québécoise de leur présence de plus en plus importante, pour notre plus grand plaisir!
 

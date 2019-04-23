@@ -13,17 +13,23 @@ artistes:
   - Virginie Fortin
   - Léane Labrèche D'Or
   - Mathieu Séguin
-  - Guillaume Marchand
+  - Bernard Fortin
+  - Vincent Fafard
+  - Frédéric Lavallée
+  - Zoé Tremblay-Bianco
+  - Marc-Antoine Sinibaldi
+  - Alice Pascual
+
 ---
 Une épopée musicale intersidérale présentant la vie, la mort et les exploits de Michel, notre sauveur de demain. 
 
 _Lovemichel_
 
 
-Mettant en vedette : Virginie Fortin, Léane Labrèche d’Or, Bernard Fortin, Vincent Fafard, Frédéric Lavallée, Olivia Palacci, Marc-Antoine Sinibaldi
+Mettant en vedette : Virginie Fortin, Léane Labrèche d’Or, Bernard Fortin, Vincent Fafard, Frédéric Lavallée, Zoé Tremblay-Bianco, Marc-Antoine Sinibaldi
 
 Texte/Paroles : Philippe Cigna 
 
-Musique : Mathieu Séguin et Guillaume Marchand
+Musique : Mathieu Séguin
 
 Mise en scène : Alice Pascual et Philippe Cigna 
