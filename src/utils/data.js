@@ -29,7 +29,7 @@ export const toFlatShows = shows => {
   return flatShows;
 };
 
-const dateComparator = (a, b) => new Date(a.date) - new Date(b.date);
+const dateComparator = (a, b) => new Date(a.date) - new Date(b.date) || a.title.localeCompare(b.title);
 
 export const sortByDate = shows => shows.sort(dateComparator);
 

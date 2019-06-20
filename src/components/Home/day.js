@@ -12,6 +12,7 @@ export default ({ shows = [], images, index }) => (
   <>
     {shows.map(({ title, day, time, poster, artistes, slug }, i) => (
       <Col key={`${title}-${day}-${time}`} xs={12} sm={6} md={4} lg={3}>
+        {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
         <Link to={slug}>
           <Day data-color={colors[index]} data-first={i === 0} data-last={i === shows.length - 1}>
             {i === 0 ? day : ''}
