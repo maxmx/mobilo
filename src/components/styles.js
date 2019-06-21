@@ -47,7 +47,10 @@ const bubbleUp = keyframes`
 	to { background-position: 0 -500px; }
 `;
 
-// eslint-disable-next-line import/prefer-default-export
+export const BasicStyles = createGlobalStyle`
+  ${rebootStyles};
+`;
+
 export const GlobalStyles = createGlobalStyle`
   ${rebootStyles};
   body {
