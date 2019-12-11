@@ -1,5 +1,6 @@
 import React from 'react';
 import { ThemeProvider } from 'styled-components';
+import { Grid } from 'react-styled-flexboxgrid';
 
 import Helmet from './Helmet';
 import { GlobalStyles, theme, SiteNote } from './styles';
@@ -14,9 +15,14 @@ export default ({ children }) => (
       <div>
         <Navigation />
         {children}
-        <SiteNote>
-          Ce site est <a href="https://github.com/maxmx/mobilo">open source</a>
-        </SiteNote>
+        <Grid>
+          <SiteNote>
+            <span>
+              Ce site est <a href="https://github.com/maxmx/mobilo">open source</a>
+            </span>
+            <a href="mailto:drmobilo@gmail.com">Contact</a>
+          </SiteNote>
+        </Grid>
       </div>
     </ThemeProvider>
   </>

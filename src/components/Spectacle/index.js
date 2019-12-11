@@ -13,7 +13,7 @@ import Background from './background';
 import { Artistes, TicketContainer, Ticket, TicketDay } from './styles';
 
 export default ({ title, scene, artistes = [], dates = [], content, poster }) => {
-  const renderedPoster = poster || '/img/poster-aquafest-2019.png';
+  const renderedPoster = poster || '/img/poster-aquafest-2020.png';
   return (
     <Background poster={renderedPoster}>
       <Grid>

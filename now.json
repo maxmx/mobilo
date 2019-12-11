@@ -3,5 +3,10 @@
   "builds": [
     {"src": "package.json", "use": "@now/static-build"}
   ],
-  "alias": ["drmobilo.com", "www.drmobilo.com"]
+  "alias": ["drmobilo.com", "www.drmobilo.com"],
+  "routes": [
+    { "src": "/(.*)", "dest": "/$1" },
+    { "handle": "filesystem" },
+    { "src": "/.*", "status": 404, "dest": "/404" }
+  ]
 }

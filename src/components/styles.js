@@ -67,7 +67,8 @@ export const GlobalStyles = createGlobalStyle`
 export const SiteNote = styled.p`
   margin: 3rem 0;
   font-size: 0.75rem;
-  text-align: center;
+  display: flex;
+  justify-content: space-between;
   &,
   & a,
   & a:hover {
