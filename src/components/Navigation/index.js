@@ -15,7 +15,6 @@ export default () => (
         <Col>
           <nav>
             <NavLink to="/">Dates</NavLink>
-            <NavLink to="/artistes/">Artistes</NavLink>
           </nav>
         </Col>
       </Row>
