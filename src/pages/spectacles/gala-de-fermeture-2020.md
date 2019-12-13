@@ -5,7 +5,7 @@ title: 'Gala de Fermeture - Sèxe Illégal : Rorqual'
 dates: 
   - billet: 'https://secure.ticketpro.ca/?lang=fr&server=ww1#achat_RIA16ES20'
     date: 2020-05-16T24:00:00.000Z
-poster: '/img/poster-aquafest-2020.png'
+poster: '/img/poster-gala-2020-si.png'
 scene: Grand Théâtre Rialto
 artistes:
   - Sèxe Illégal
