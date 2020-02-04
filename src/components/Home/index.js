@@ -25,7 +25,7 @@ export default ({ images, dates = [], content }) => (
       <Row around="xs" style={{ textAlign: 'center', marginTop: '3rem' }}>
         <Col xs={12} md={4}>
           <Margin bottom={{ xs: 3 }}>
-            <a href="https://shop.drmobilo.com/collections/frontpage/products/passe-dr-mobilo-aquafest">
+            <a href="https://shop.drmobilo.com/collections/frontpage/products/passe-scaphandrier-2020">
               <img src={P1} alt="" />
             </a>
           </Margin>
