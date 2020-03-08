@@ -5,7 +5,7 @@ title: 'Tout est chaos'
 dates: 
   - billet: 'https://lepointdevente.com/billets/g45200504001'
     date: 2020-05-05T23:00:00.000Z
-poster: 
+poster: '/img/poster-tranna-wintour.png'
 scene: URSA
 artistes:
   - Tranna Wintour

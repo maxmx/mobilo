@@ -5,7 +5,7 @@ title: 'Brick et Brack – Toujours Debout'
 dates: 
   - billet: 'https://lepointdevente.com/billets/g45200512002'
     date: 2020-05-13T01:00:00.000Z
-poster: 
+poster: '/img/poster-brick-et-brack.png'
 scene: URSA
 artistes:
   - Brick et Brack

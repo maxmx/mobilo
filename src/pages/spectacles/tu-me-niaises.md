@@ -5,7 +5,7 @@ title: 'Tu me niaises - le podcast de Sèxe Illégal'
 dates: 
   - billet: 'https://www.universe.com/events/tu-me-niaises-tickets-H4T8S1'
     date: 2020-05-06T23:00:00.000Z
-poster: 
+poster: '/img/poster-tmn.png'
 scene: Théâtre Fairmount
 artistes:
   - Philippe Cigna

@@ -7,7 +7,7 @@ dates:
     date: 2020-05-05T23:00:00.000Z
   - billet: 'https://www.universe.com/events/virginie-fortin-tickets-9PC1T3'
     date: 2020-05-10T01:00:00.000Z
-poster: 
+poster: '/img/poster-virginie-solo.png'
 scene: Théâtre Fairmount
 artistes:
   - Virginie Fortin

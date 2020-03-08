@@ -7,7 +7,7 @@ dates:
     date: 2020-05-05T01:00:00.000Z
   - billet: 'https://www.universe.com/events/les-denis-drolet-tickets-XCH198'
     date: 2020-05-11T23:00:00.000Z
-poster: 
+poster: '/img/poster-denis-drolet.png'
 scene: Théâtre Fairmount
 artistes:
   - Les Denis Drolet

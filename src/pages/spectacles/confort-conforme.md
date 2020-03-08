@@ -7,7 +7,7 @@ dates:
     date: 2020-05-08T01:00:00.000Z
   - billet: 'https://www.universe.com/events/guillaume-wagner-tickets-L2T6ZP'
     date: 2020-05-09T23:00:00.000Z
-poster: 
+poster: '/img/poster-wagner.png'
 scene: Théâtre Fairmount
 artistes:
   - Guillaume Wagner

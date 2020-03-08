@@ -5,7 +5,7 @@ title: 'Juan Wauters'
 dates: 
   - billet: 'https://lepointdevente.com/billets/g45200515001'
     date: 2020-05-15T24:00:00.000Z
-poster: 
+poster: '/img/poster-juan-wauters.png'
 scene: URSA
 artistes:
   - Juan Wauters

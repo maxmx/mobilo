@@ -5,7 +5,7 @@ title: 'Violence ordinaire'
 dates: 
   - billet: 'https://lepointdevente.com/billets/g45200512001'
     date: 2020-05-12T23:00:00.000Z
-poster: 
+poster: '/img/poster-mathieu-seguin.png'
 scene: URSA
 artistes:
   - Mathieu Séguin

@@ -5,7 +5,7 @@ title: 'Crier au loup'
 dates: 
   - billet: 'https://lepointdevente.com/billets/g45200510001'
     date: 2020-05-10T23:00:00.000Z
-poster: 
+poster: '/img/poster-audrey-anne.png'
 scene: URSA
 artistes:
   - Audrey-Anne Dugas

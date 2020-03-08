@@ -7,7 +7,7 @@ dates:
     date: 2020-05-12T01:00:00.000Z
   - billet: 'https://www.universe.com/events/adib-alkhalidey-tickets-2M8T0R'
     date: 2020-05-12T23:00:00.000Z
-poster: 
+poster: '/img/poster-adib.png'
 scene: Théâtre Fairmount
 artistes:
   - Adib Alkhalidey

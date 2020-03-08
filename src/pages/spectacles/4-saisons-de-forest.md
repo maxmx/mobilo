@@ -7,7 +7,7 @@ dates:
     date: 2020-05-03T23:00:00.000Z
   - billet: 'https://lepointdevente.com/billets/g45200507002'
     date: 2020-05-08T01:00:00.000Z
-poster: 
+poster: '/img/poster-alex-forest.png'
 scene: URSA
 artistes:
   - Alexandre Forest

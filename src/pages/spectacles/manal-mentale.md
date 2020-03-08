@@ -7,7 +7,7 @@ dates:
     date: 2020-05-10T01:00:00.000Z
   - billet: 'https://lepointdevente.com/billets/g45200513001'
     date: 2020-05-13T23:00:00.000Z
-poster: 
+poster: '/img/poster-manal-drissi.png'
 scene: URSA
 artistes:
   - Manal Drissi

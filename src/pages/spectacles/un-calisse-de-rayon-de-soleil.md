@@ -7,7 +7,7 @@ dates:
     date: 2020-05-07T23:00:00.000Z
   - billet: 'https://lepointdevente.com/billets/g45200513002'
     date: 2020-05-14T01:00:00.000Z
-poster: 
+poster: '/img/poster-colin-boudrias.png'
 scene: URSA
 artistes:
   - Colin Boudrias

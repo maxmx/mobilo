@@ -5,7 +5,7 @@ title: 'Manigance'
 dates: 
   - billet: 'https://lepointdevente.com/billets/g45200506001'
     date: 2020-05-07T01:00:00.000Z
-poster: 
+poster: '/img/poster-charles-brunet.png'
 scene: URSA
 artistes:
   - Charles Brunet

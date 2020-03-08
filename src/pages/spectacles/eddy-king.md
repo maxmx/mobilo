@@ -5,7 +5,7 @@ title: 'Eddy King'
 dates: 
   - billet: 'https://www.universe.com/events/eddy-king-tickets-7XHC59'
     date: 2020-05-13T01:00:00.000Z
-poster: 
+poster: '/img/poster-eddy-solo.png'
 scene: Théâtre Fairmount
 artistes:
   - Eddy King

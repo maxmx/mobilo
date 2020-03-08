@@ -5,7 +5,7 @@ title: 'Charles parle de Jack l’Éventreur pendant 60 minutes'
 dates: 
   - billet: 'https://www.universe.com/events/charles-beauchesne-tickets-Z0XL8W'
     date: 2020-05-02T23:00:00.000Z
-poster: 
+poster: '/img/poster-charles-beauchesne.png'
 scene: Théâtre Fairmount
 artistes:
   - Charles Beauchesne

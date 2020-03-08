@@ -5,7 +5,7 @@ title: 'Handsome daughter'
 dates: 
   - billet: 'https://lepointdevente.com/billets/g45200502001'
     date: 2020-05-02T23:00:00.000Z
-poster: 
+poster: '/img/poster-eman.png'
 scene: URSA
 artistes:
   - Eman El-Husseini

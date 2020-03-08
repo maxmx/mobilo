@@ -5,7 +5,7 @@ title: 'Cococratie : La nouvelle ordre sociale.'
 dates: 
   - billet: 'https://www.universe.com/events/coco-belliveau-tickets-8SJWVF'
     date: 2020-05-15T23:00:00.000Z
-poster: 
+poster: '/img/poster-coco.png'
 scene: Théâtre Fairmount
 artistes:
   - Coco Belliveau

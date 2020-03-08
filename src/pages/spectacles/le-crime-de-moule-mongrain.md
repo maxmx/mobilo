@@ -5,7 +5,7 @@ title: 'Le crime de Moule Mongrain'
 dates: 
   - billet: 'https://www.universe.com/events/les-pics-bois-tickets-WSDBL0'
     date: 2020-05-14T23:00:00.000Z
-poster: 
+poster: '/img/poster-pic-bois.png'
 scene: Théâtre Fairmount
 artistes:
   - Les Pics-Bois

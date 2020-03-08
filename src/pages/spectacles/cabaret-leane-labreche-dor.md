@@ -5,7 +5,7 @@ title: 'LéléCabaré'
 dates: 
   - billet: 'https://www.universe.com/events/cabaret-lane-labrche-dor-tickets-CZWT6J'
     date: 2020-05-14T01:00:00.000Z
-poster: 
+poster: '/img/poster-leane.png'
 scene: Théâtre Fairmount
 artistes:
   - Léane Labrèche-Dor

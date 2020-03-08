@@ -5,7 +5,7 @@ title: 'Tania Dutel'
 dates: 
   - billet: 'https://lepointdevente.com/billets/g45200508001'
     date: 2020-05-09T23:00:00.000Z
-poster: 
+poster: '/img/poster-tania-dutel.png'
 scene: URSA
 artistes:
   - Tania Dutel

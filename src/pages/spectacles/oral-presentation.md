@@ -5,7 +5,7 @@ title: 'Oral Presentation / Présentation orale'
 dates: 
   - billet: 'https://lepointdevente.com/billets/g45200503001'
     date: 2020-05-03T01:00:00.000Z
-poster: 
+poster: '/img/poster-jess.png'
 scene: URSA
 artistes:
   - Jess Salomon

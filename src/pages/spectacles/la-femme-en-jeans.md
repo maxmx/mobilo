@@ -5,7 +5,7 @@ title: 'La femme en jeans'
 dates: 
   - billet: 'https://www.universe.com/events/catherine-ethier-tickets-S65KTY'
     date: 2020-05-06T01:00:00.000Z
-poster: 
+poster: '/img/poster-catherine-ethier.png'
 scene: Théâtre Fairmount
 artistes:
   - Catherine Ethier

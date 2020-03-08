@@ -5,7 +5,7 @@ title: 'Cherche encore, tant que brûlera ta flamme'
 dates: 
   - billet: 'https://lepointdevente.com/billets/g45200503003'
     date: 2020-05-06T23:00:00.000Z
-poster: 
+poster: '/img/poster-suzie.png'
 scene: URSA
 artistes:
   - Suzie Bouchard
