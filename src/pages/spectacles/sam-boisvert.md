@@ -5,7 +5,7 @@ title: 'Sam Boisvert'
 dates: 
   - billet: 'https://lepointdevente.com/billets/g45200510002'
     date: 2020-05-11T01:00:00.000Z
-poster: '/img/poster-sam-boivert.png'
+poster: '/img/poster-sam-boisvert.png'
 scene: URSA
 artistes:
   - Sam Boisvert
