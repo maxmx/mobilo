@@ -10,10 +10,10 @@ scene: Théâtre Outremont
 artistes:
   - Eddy King
   - Imposs
-  - Anas Hassouna 
-  - Tania Dutel 
+  - Anas Hassouna
+  - Tania Dutel
   - Adib Alkhalidey
-  - Manal Drissi 
+  - Manal Drissi
   - Dolino
   - Aba Atlas
   - Naya Ali
