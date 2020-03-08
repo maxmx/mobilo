@@ -9,5 +9,14 @@ poster: '/img/poster-gala-2020-virginie.png'
 scene: Théâtre Outremont
 artistes:
   - Virginie Fortin
+  - Martha Wainwright 
+  - Eman El-Husseini 
+  - Audrey-Anne Dugas 
+  - Suzie Bouchard
+  - Guillaume Wagner 
+  - Tranna Wintour 
+  - Léane Labrèche-Dor 
+  - Elliot Maginot 
+
 ---
 Le poisson guppy femelle a développé un cerveau beaucoup plus volumineux que son compatriote mâle pour éviter les agressions répétées de ce dernier. Venez regarder se déployer la puissance de son cerveau lorsque placé dans un environnement sécuritaire.

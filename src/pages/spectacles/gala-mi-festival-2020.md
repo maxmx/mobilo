@@ -9,5 +9,14 @@ poster: '/img/poster-gala-2020-eddy.png'
 scene: Théâtre Outremont
 artistes:
   - Eddy King
+  - Imposs
+  - Anas Hassouna 
+  - Tania Dutel 
+  - Adib Alkhalidey
+  - Manal Drissi 
+  - Dolino
+  - Aba Atlas
+  - Naya Ali
+
 ---
 Nul besoin de construire des murs, la grande barrière existe déjà, et abrite la plus grande diversité d’espèces sous-marines. Malheureusement, elle est en danger, le blanchiment dû à l’activité humaine lui a déjà fait perdre la moitié de sa taille. Pendant qu’il est encore temps, venez célébrer sa biodiversité essentielle à la santé de notre écosystème. 
