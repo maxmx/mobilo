@@ -7,6 +7,8 @@ dates:
     date: 2020-05-16T24:00:00.000Z
 poster: '/img/poster-gala-2020-si.png'
 scene: Grand Théâtre Rialto
+gala: true
+order: 1
 artistes:
   - Sèxe Illégal
   - Jesuslesfilles

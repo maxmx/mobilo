@@ -7,6 +7,8 @@ dates:
     date: 2020-05-01T24:00:00.000Z
 poster: '/img/poster-gala-2020-virginie.png'
 scene: Théâtre Outremont
+gala: true
+order: 2
 artistes:
   - Virginie Fortin
   - Martha Wainwright

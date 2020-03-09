@@ -5,22 +5,19 @@ import groupBy from 'lodash.groupby';
 
 export const toShow = ({
   node: {
-    frontmatter: { title, dates, artistes, poster },
+    frontmatter,
     fields: { slug }
   }
-}) => ({ title, dates, artistes, poster, slug });
+}) => ({ ...frontmatter, slug });
 
 export const toFlatShows = shows => {
   const flatShows = [];
-  shows.forEach(({ title, dates, artistes, poster, slug }) => {
+  shows.forEach(({ dates, ...showprops }) => {
     dates.forEach(({ date, billet }) => {
       flatShows.push({
-        title,
-        artistes,
-        poster,
+        ...showprops,
         date,
         billet,
-        slug,
         day: format(date, 'dddd D MMMM YYYY', { locale }),
         time: format(date, 'HH:mm')
       });

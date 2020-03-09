@@ -1,44 +1,25 @@
 import React from 'react';
 import { Col } from 'react-styled-flexboxgrid';
-import { Margin } from 'styled-components-spacing';
-import Img from 'gatsby-image';
 
-import PlaceHolder from './placeholder';
-import { Artiste, Title, Time, Link, Day, Overlayer } from './styles';
+import Link from './link';
 
 const colors = ['#860000', '#aa2d2d', '#ef9635', '#fcc163', '#f2b39e', '#62ddd7', '#03938c', '#16716e'];
 
-export default ({ shows = [], images, index }) => {
+export default ({ shows = [], images, index, filterFn = ({ gala }) => !gala }) => {
   const color = colors[index % colors.length];
+
   return (
     <>
-      {shows.map(({ title, day, time, poster, artistes, slug }, i) => (
-        <Col key={`${title}-${day}-${time}`} xs={12} md={4} lg={3}>
-          {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
-          <Link to={slug}>
-            <Day data-color={color} data-first={i === 0} data-last={i === shows.length - 1}>
-              {i === 0 ? day : ''}
-            </Day>
-            <Margin bottom={{ xs: 3 }}>
-              <Overlayer>
-                <PlaceHolder {...{ color, index, title }} />
-                {images[poster] && (
-                  <div>
-                    <Img fluid={images[poster]} />
-                  </div>
-                )}
-              </Overlayer>
-            </Margin>
-            <p>
-              <Artiste>{artistes.length > 2 ? 'Artistes Variés' : artistes.join(' & ')}</Artiste>
-              <br />
-              <Title>{title}</Title>
-              <br />
-              <Time>{time}</Time>
-            </p>
-          </Link>
-        </Col>
-      ))}
+      {shows.filter(filterFn).map(({ title, day, time, poster, artistes, slug }, i) => {
+        const first = i === 0;
+        const last = i === shows.length - 1;
+        const sharp = images[poster];
+        return (
+          <Col key={`${title}-${day}-${time}`} xs={12} md={4} lg={3}>
+            <Link {...{ title, day, time, poster: sharp, artistes, slug, first, last, color }} />
+          </Col>
+        );
+      })}
     </>
   );
 };

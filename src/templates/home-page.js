@@ -15,14 +15,16 @@ export default ({ data }) => {
   } = data;
 
   const shows = rawShows.map(toShow);
-  const flatShows = sortByDate(toFlatShows(shows));
+  const flatShows = toFlatShows(shows);
+  const sorted = sortByDate(flatShows);
 
-  const dates = groupShowsByDates(flatShows);
+  const dates = groupShowsByDates(sorted);
+  const galas = flatShows.filter(({ gala }) => gala);
   const images = toImages('/img')(allImageSharp);
 
   return (
     <Layout>
-      <Home {...{ title, images, dates }} content={html} />
+      <Home {...{ title, images, dates, galas }} content={html} />
     </Layout>
   );
 };
@@ -47,6 +49,8 @@ export const pageQuery = graphql`
             title
             artistes
             poster
+            gala
+            order
             dates {
               billet
               date

@@ -7,6 +7,8 @@ dates:
     date: 2020-05-08T24:00:00.000Z
 poster: '/img/poster-gala-2020-eddy.png'
 scene: Théâtre Outremont
+gala: true
+order: 3
 artistes:
   - Eddy King
   - Imposs
