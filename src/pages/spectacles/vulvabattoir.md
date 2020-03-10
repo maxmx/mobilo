@@ -5,7 +5,7 @@ title: 'Vulvabattoir'
 dates: 
   - billet: 'https://lepointdevente.com/billets/g45200514001'
     date: 2020-05-15T01:00:00.000Z
-poster: 
+poster: '/img/poster-vulvabattoir.png'
 scene: URSA
 artistes:
   - Marie-Christine Lemieux-Couture
