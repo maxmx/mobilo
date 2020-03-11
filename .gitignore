@@ -23,3 +23,5 @@ node_modules/
 # build
 public/
 dist/
+
+.now
