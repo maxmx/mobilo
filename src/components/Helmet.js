@@ -3,7 +3,7 @@ import Helmet from 'react-helmet';
 
 import defaults from '../constants/seo-defaults';
 
-const prefix = slug => `${process.env.GATSBY_SITE_URL}${slug}`;
+const prefix = slug => `https://www.drmobilo.com${slug}`;
 
 export default props => {
   const helmet = { ...defaults, ...props };
