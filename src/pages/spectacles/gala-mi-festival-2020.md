@@ -3,7 +3,7 @@ templateKey: spectacle
 type: spectacle
 title: 'Gala Mi Festival - Eddy King : Corail'
 dates: 
-  - billet: 'http://www.theatreoutremont.ca/fr/evenement/dr-mobilo-aquafest-gala-deddy-king-corail/'
+  - billet: 'http://www.theatreoutremont.ca/fr/evenement/dr-mobilo-aquafest-gala-mi-festival-gala-deddy-king-corail/'
     date: 2020-05-08T24:00:00.000Z
 poster: '/img/poster-gala-2020-eddy.png'
 scene: Théâtre Outremont
