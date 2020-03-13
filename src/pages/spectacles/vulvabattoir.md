@@ -11,8 +11,6 @@ artistes:
   - Marie-Christine Lemieux-Couture
 
 ---
-Lancement de Vulvabattoir
-
 Une soirée de poésie où on déchiquette les mots, où l’élastique te pète de noune dans face pis où on mord dans la langue. On se réapproprie le mythe du vagin denté, comme on renoue avec la puissance de notre parole. Ça se peut que tu ris, ça se peut que tu pleures, ça se peut que tu te contiennes pu.
 
 Une soirée que, finalement, si tu rentres dedans, t’es pas sûr d’en ressortir indemne. 
