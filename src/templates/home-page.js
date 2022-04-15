@@ -49,8 +49,6 @@ export const pageQuery = graphql`
             title
             artistes
             poster
-            gala
-            order
             dates {
               billet
               date
