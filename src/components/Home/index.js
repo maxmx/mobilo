@@ -6,6 +6,7 @@ import Day from './day';
 
 import hero2022 from '../../img/hero-2022.jpg';
 import { Poster } from '../Hero/styles';
+import { SiteNote } from '../styles';
 
 export default ({ images, dates = [], content }) => (
   <>
@@ -33,6 +34,12 @@ export default ({ images, dates = [], content }) => (
       </Row>
 
       <HTMLContent {...{ content }} />
+      <SiteNote>
+        <span>
+          Ce site est <a href="https://github.com/maxmx/mobilo">open source</a>
+        </span>
+        <a href="mailto:drmobilo@gmail.com">Contact</a>
+      </SiteNote>
     </Grid>
   </>
 );

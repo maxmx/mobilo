@@ -12,4 +12,4 @@ artistes:
   - Sèxe Illégal
 
 ---
-Le spektak de musik (première mondiale) Sèxe Illégal goes full band. Après la sortie de son dernier album Spätkapitalismusik, le duo légendaire revient sur scène en mode double-duo, aussi appelé quatuor, pour vous offrir l’expérience disco-punk de l’année. Venez célébrer la dernière phase de l’Anthropocène dans une ambiance festive et dansante.
+Sèxe Illégal goes full band. Après la sortie de son dernier album Spätkapitalismusik, le duo légendaire revient sur scène en mode double-duo, aussi appelé quatuor, pour vous offrir l’expérience disco-punk de l’année. Venez célébrer la dernière phase de l’Anthropocène dans une ambiance festive et dansante.

@@ -4,7 +4,7 @@ type: spectacle
 title: 'Jean-François Provençal et Julien Corriveau'
 dates: 
   - billet: 'https://www.universe.com/events/jean-franois-provenal-julien-corriveau-tickets-S3XFR4'
-    date: 2022-06-22T01:00:00.000Z
+    date: 2022-06-21T01:00:00.000Z
 poster: '/img/poster-jfp-jc.png'
 scene: Théâtre Fairmount
 artistes:
