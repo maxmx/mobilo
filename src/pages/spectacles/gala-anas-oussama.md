@@ -3,7 +3,7 @@ templateKey: spectacle
 type: spectacle
 title: 'Gala Anas et Oussama'
 dates: 
-  - billet: 'https://www.drmobilo.com'
+  - billet: 'https://lepointdevente.com/billets/clb220623001'
     date: 2022-06-24T00:00:00.000Z
 poster: '/img/poster-gala-anas-oussama.png'
 scene: Club Soda

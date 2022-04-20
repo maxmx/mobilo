@@ -3,7 +3,7 @@ templateKey: spectacle
 type: spectacle
 title: "Mais d'où tu viens?"
 dates: 
-  - billet: 'https://www.drmobilo.com'
+  - billet: 'https://www.universe.com/events/aliya-kanani-mais-do-viens-tu-tickets-F4GCWL'
     date: 2022-06-22T23:00:00.000Z
 poster: '/img/poster-aliya.png'
 scene: Ritz PDB

@@ -3,7 +3,7 @@ templateKey: spectacle
 type: spectacle
 title: 'Oussama Fares'
 dates: 
-  - billet: 'https://www.drmobilo.com'
+  - billet: 'https://www.universe.com/events/oussama-fares-tickets-MZ7KN5'
     date: 2022-06-21T01:00:00.000Z
 poster: '/img/poster-oussama.png'
 scene: Ritz PDB

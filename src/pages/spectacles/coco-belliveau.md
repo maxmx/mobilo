@@ -3,7 +3,7 @@ templateKey: spectacle
 type: spectacle
 title: 'Toxique'
 dates: 
-  - billet: 'https://www.drmobilo.com'
+  - billet: 'https://www.universe.com/events/coco-belliveau-toxique-tickets-YVRMP3'
     date: 2022-06-20T23:00:00.000Z
 poster: '/img/poster-coco-belliveau.png'
 scene: Théâtre Fairmount

@@ -3,7 +3,7 @@ templateKey: spectacle
 type: spectacle
 title: 'Un câlisse de rayon de soleil'
 dates: 
-  - billet: 'https://www.drmobilo.com'
+  - billet: 'https://www.universe.com/events/colin-boudrias-un-clisse-de-rayon-de-soleil-tickets-B3MDST'
     date: 2022-06-24T23:00:00.000Z
 
 poster: '/img/poster-colin.png'

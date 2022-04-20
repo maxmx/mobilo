@@ -3,7 +3,7 @@ templateKey: spectacle
 type: spectacle
 title: 'Kate'
 dates: 
-  - billet: 'https://www.drmobilo.com'
+  - billet: 'https://www.universe.com/events/philippe-audrey-larue-saint-jacques-kate-tickets-VH93T0'
     date: 2022-06-21T23:00:00.000Z
 poster: '/img/poster-philippe-audrey.png'
 scene: Théâtre Fairmount

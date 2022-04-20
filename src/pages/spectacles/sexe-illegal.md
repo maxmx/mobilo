@@ -3,7 +3,7 @@ templateKey: spectacle
 type: spectacle
 title: 'Sèxe Illégal'
 dates: 
-  - billet: 'https://www.drmobilo.com'
+  - billet: 'https://www.universe.com/events/sxe-illgal-tickets-8M9QXG'
     date: 2022-06-26T01:00:00.000Z
 
 poster: '/img/poster-sexe-illegal.png'

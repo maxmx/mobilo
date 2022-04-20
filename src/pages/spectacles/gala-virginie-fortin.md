@@ -3,7 +3,7 @@ templateKey: spectacle
 type: spectacle
 title: 'Gala Virginie Fortin'
 dates: 
-  - billet: 'https://www.drmobilo.com'
+  - billet: 'http://www.theatreoutremont.ca/fr/evenement/dr-mobilo-aquafest-le-gala-de-virginie-fortin/'
     date: 2022-06-27T00:00:00.000Z
 poster: '/img/poster-gala-virginie.png'
 scene: Théâtre Outremont

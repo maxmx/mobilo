@@ -3,7 +3,7 @@ templateKey: spectacle
 type: spectacle
 title: 'Gala Sèxe Illégal'
 dates: 
-  - billet: 'https://www.drmobilo.com'
+  - billet: 'https://lepointdevente.com/billets/clb220621001'
     date: 2022-06-22T00:00:00.000Z
 
 poster: '/img/poster-gala-si.png'

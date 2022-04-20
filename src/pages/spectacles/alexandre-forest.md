@@ -3,7 +3,7 @@ templateKey: spectacle
 type: spectacle
 title: 'Alexandre Forest'
 dates: 
-  - billet: 'https://www.drmobilo.com'
+  - billet: 'https://www.universe.com/events/alexandre-forest-tickets-7JW1FV'
     date: 2022-06-25T23:00:00.000Z
 
 poster: '/img/poster-alexandre.png'

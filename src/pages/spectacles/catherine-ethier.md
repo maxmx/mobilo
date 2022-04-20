@@ -3,7 +3,7 @@ templateKey: spectacle
 type: spectacle
 title: 'Le droit d’être applaudie'
 dates: 
-  - billet: 'https://www.drmobilo.com'
+  - billet: 'https://www.universe.com/events/catherine-ethier-le-droit-dtre-applaudie-tickets-G8BY9R'
     date: 2022-06-25T23:00:00.000Z
 poster: '/img/poster-catherine.png'
 scene: Théâtre Fairmount

@@ -3,7 +3,7 @@ templateKey: spectacle
 type: spectacle
 title: 'Antibiose'
 dates: 
-  - billet: 'https://www.drmobilo.com'
+  - billet: 'https://www.universe.com/events/yannick-de-martino-po-forget-antibiose-tickets-YSTWM2'
     date: 2022-06-24T23:00:00.000Z
 poster: '/img/poster-yannick-po.png'
 scene: Théâtre Fairmount

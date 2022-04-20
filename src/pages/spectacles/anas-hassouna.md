@@ -3,7 +3,7 @@ templateKey: spectacle
 type: spectacle
 title: 'Anas Hassouna'
 dates: 
-  - billet: 'https://www.drmobilo.com'
+  - billet: 'https://www.universe.com/events/anas-hassouna-tickets-3B5VJ2'
     date: 2022-06-25T01:00:00.000Z
 poster: '/img/poster-anas.png'
 scene: Théâtre Fairmount

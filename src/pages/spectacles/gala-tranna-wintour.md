@@ -3,7 +3,7 @@ templateKey: spectacle
 type: spectacle
 title: 'Gala Tranna Wintour'
 dates: 
-  - billet: 'https://www.drmobilo.com'
+  - billet: 'https://lepointdevente.com/billets/clb220622001'
     date: 2022-06-23T00:00:00.000Z
 poster: '/img/poster-gala-tranna.png'
 scene: Club Soda
