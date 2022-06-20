@@ -13,3 +13,5 @@ artistes:
 
 ---
 Dans une atmosphère survoltée comme seuls Anas Hassouna et Oussama Fares savent créer, joignez-vous à eux alors que vos deux hôtes vous ont préparé un spectacle inédit où humour et musique s’entrecroisent dans une symbiose seulement possible au Mobilo.
+
+Invité.es: Mibenson Sylvain, Rosalie Vaillancourt, Hassan Le Mack, Lost et High Klassified

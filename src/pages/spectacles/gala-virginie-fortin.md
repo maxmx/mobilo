@@ -13,3 +13,5 @@ artistes:
 
 ---
 Humoriste, actrice, autrice, improvisatrice, fondatrice du festival, Virginie Fortin a tous les talents, y compris celui de bien s’entourer. Venez clore le festival en compagnie d’elle et de ses invité.es. Virginie vous prouvera que c’est seulement lorsqu’on navigue nos profondeurs qu’on peut voler haut.  
+
+Invité.es: Katherine Levac, Guillaume Wagner, Michelle Desrochers, Suzie Bouchard, Elliot Maginot et Lydia Képinski
