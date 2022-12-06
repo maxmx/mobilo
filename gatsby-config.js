@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Dr. Mobilo Aquafest 2020'
+    title: 'Dr. Mobilo Aquafest 2022'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -57,13 +57,6 @@ module.exports = {
       resolve: 'gatsby-plugin-google-fonts',
       options: {
         fonts: [`Arvo`]
-      }
-    },
-    {
-      resolve: 'gatsby-plugin-netlify-cms',
-      options: {
-        modulePath: `${__dirname}/src/cms/cms.js`,
-        enableIdentityWidget: false
       }
     }
   ]

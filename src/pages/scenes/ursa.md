@@ -1,4 +1,0 @@
----
-type: scene
-title: URSA
----

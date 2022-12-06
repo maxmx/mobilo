@@ -15,17 +15,15 @@
     "gatsby-plugin-favicon": "^3.1.6",
     "gatsby-plugin-google-analytics": "^2.1.35",
     "gatsby-plugin-google-fonts": "^1.0.1",
-    "gatsby-plugin-netlify-cms": "^4.1.38",
     "gatsby-plugin-page-transitions": "^1.0.8",
     "gatsby-plugin-react-helmet": "^3.1.22",
-    "gatsby-plugin-sharp": "^2.4.5",
+    "gatsby-plugin-sharp": "^2.6.36",
     "gatsby-plugin-styled-components": "3.1.19",
     "gatsby-source-filesystem": "^2.1.48",
     "gatsby-transformer-remark": "^2.6.50",
-    "gatsby-transformer-sharp": "^2.3.14",
+    "gatsby-transformer-sharp": "^2.5.15",
     "lodash.groupby": "^4.6.0",
     "lodash.sortby": "^4.7.0",
-    "netlify-cms": "^2.10.16",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-dropzone": "^10.2.1",
@@ -67,5 +65,8 @@
     "uglifyjs-webpack-plugin": "^2.0.1"
   },
   "license": "none",
-  "private": true
+  "private": true,
+  "resolutions": {
+    "sharp": "0.28.0"
+  }
 }
