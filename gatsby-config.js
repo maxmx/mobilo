@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Dr. Mobilo Aquafest 2022'
+    title: 'Dr. Mobilo Aquafest 2023'
   },
   plugins: [
     'gatsby-plugin-react-helmet',

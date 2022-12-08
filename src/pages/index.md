@@ -1,4 +1,4 @@
 ---
 templateKey: home-page
-title: Dr. Mobilo Aquafest 2022
+title: Dr. Mobilo Aquafest 2023
 ---
