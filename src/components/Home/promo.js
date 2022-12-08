@@ -10,7 +10,7 @@ export default () => (
       <Row style={{ textAlign: 'center', marginTop: '3rem' }}>
         <Col xs={12} md={4} mdOffset={4}>
           <Margin bottom={{ xs: 3 }}>
-            <a href="https://shop.drmobilo.com/collections/frontpage/products/passe-scaphandrier-2022">
+            <a href="https://shop.drmobilo.com/products/passe-scaphandrier-2023">
               <img src={P2} alt="" />
             </a>
           </Margin>

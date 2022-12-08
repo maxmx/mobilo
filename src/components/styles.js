@@ -6,9 +6,9 @@ import bodyBg from '../img/body-bg.png';
 export const theme = {
   colors: {
     black: '#0a1113',
-    yellow: '#e5ad60',
-    blue: '#40ab99',
-    red: '#894131',
+    yellow: '#ebbdb4',
+    blue: '#6a9aee',
+    red: '#7b5394',
     white: '#fff'
   },
   flexboxgrid: {
@@ -38,7 +38,7 @@ const rebootStyles = reboot({
     'Arvo, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"',
   linkColor: theme.colors.yellow,
   linkDecoration: 'none',
-  linkHoverColor: '#f0af57',
+  linkHoverColor: '#dfa99e',
   linkHoverDecoration: 'underline'
 });
 

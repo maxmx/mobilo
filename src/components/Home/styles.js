@@ -66,7 +66,7 @@ export const PosterBg = styled.div`
     }
   }) => color || blue};
   border: 4px solid ${props => props.theme.colors.black};
-  padding-top: calc(150% - 8px);
+  padding-top: calc(100% - 8px);
 `;
 
 const posterFontSize = {

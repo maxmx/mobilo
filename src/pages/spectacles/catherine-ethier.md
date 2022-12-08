@@ -1,14 +1,16 @@
 ---
 templateKey: spectacle
 type: spectacle
-title: 'Le droit d’être applaudie'
+title: 'Araignée du soir'
 dates: 
-  - billet: 'https://www.universe.com/events/catherine-ethier-le-droit-dtre-applaudie-tickets-G8BY9R'
-    date: 2022-06-25T23:00:00.000Z
-poster: '/img/poster-catherine.png'
-scene: Théâtre Fairmount
+  - billet: 'https://www.universe.com/events/catherine-ethier-araigne-du-soir-tickets-9XJFL1'
+    date: 2023-08-03T23:00:00.000Z
+
+poster: '/img/poster-catherine-ethier.jpg'
+scene: Théatre Fairmount
 artistes:
   - Catherine Ethier
 
 ---
-En mars 2020, la femme en jeans a regagné son modeste bungalow, humble devant les éléments, déterminée à te revoir (un jour. Peut-être. Elle ne savait pas, elle n’est pas devin). À cette époque précise, elle était en colère et caressait (aussi) l’envie de danser. Cette fois, elle rêve d’être applaudie. Et elle a bien l’intention de revendiquer son droit. Traumavertissement : probabilité élevée de dissection de porc.
+Récital funeste d&#39;une femme qui connaît son herbier (et qui a bien l&#39;intention
+de t&#39;en conter fleurette). Tenue de ville (ou d&#39;assassinat).

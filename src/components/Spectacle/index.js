@@ -34,7 +34,7 @@ export default ({ title, scene, artistes = [], dates = [], content, poster }) =>
                 <Palette image={renderedPoster}>
                   {palette => (
                     <>
-                      <h1 style={{ color: palette.vibrant }}>{title}</h1>
+                      <h1 style={{ color: palette.lightMuted }}>{title}</h1>
                     </>
                   )}
                 </Palette>

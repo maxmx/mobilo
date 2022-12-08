@@ -1,4 +1,0 @@
----
-templateKey: artistes
-title: Artistes
----
