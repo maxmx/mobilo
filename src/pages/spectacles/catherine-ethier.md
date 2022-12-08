@@ -4,7 +4,7 @@ type: spectacle
 title: 'Araignée du soir'
 dates: 
   - billet: 'https://www.universe.com/events/catherine-ethier-araigne-du-soir-tickets-9XJFL1'
-    date: 2023-08-03T23:00:00.000Z
+    date: 2023-06-08T23:00:00.000Z
 
 poster: '/img/poster-catherine-ethier.jpg'
 scene: Théatre Fairmount
