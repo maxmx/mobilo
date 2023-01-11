@@ -20,7 +20,7 @@
     "gatsby-plugin-sharp": "^2.6.36",
     "gatsby-plugin-styled-components": "3.1.19",
     "gatsby-source-filesystem": "^2.1.48",
-    "gatsby-transformer-remark": "^2.6.50",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.5.15",
     "lodash.groupby": "^4.6.0",
     "lodash.sortby": "^4.7.0",
