@@ -12,7 +12,7 @@ import Promo from './promo';
 export default ({ images, dates = [], content }) => (
   <>
     <Poster style={{ paddingTop: '3.25rem' }}>
-      <img src={hero2023} alt="Dr. Mobilo Aquafest 2023" />
+      <img src={hero2023} alt="Dr. Mobilo Aquafest du 1 au 10 Juin 2023" />
     </Poster>
 
     <h1
