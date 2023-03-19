@@ -6,7 +6,7 @@ dates:
   - billet: 'https://www.universe.com/events/arnaud-soly-impro-don-tickets-DNXMP2'
     date: 2023-06-04T01:30:00.000Z
 
-poster: '/img/poster-soly-courchesne.jpg'
+poster: '/img/poster-soly-courchesne.png'
 scene: Théatre Fairmount
 artistes:
   - Arnaud Soly

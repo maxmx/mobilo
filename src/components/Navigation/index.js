@@ -3,6 +3,13 @@ import { Grid, Row, Col } from 'react-styled-flexboxgrid';
 
 import { Logo, NavContainer, NavLink } from './styles';
 
+const scroll = e => {
+  e.preventDefault();
+  document.getElementById('spectacles').scrollIntoView({
+    behavior: 'smooth'
+  });
+};
+
 export default () => (
   <NavContainer>
     <Grid>
@@ -14,7 +21,9 @@ export default () => (
         </Col>
         <Col>
           <nav>
-            <NavLink to="/">Dates</NavLink>
+            <NavLink to="/" onClick={scroll}>
+              Spectacles
+            </NavLink>
           </nav>
         </Col>
       </Row>

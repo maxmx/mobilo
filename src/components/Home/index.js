@@ -4,7 +4,7 @@ import { HTMLContent } from '../Content';
 
 import Day from './day';
 
-import hero2023 from '../../img/hero-2023.jpg';
+import hero2023 from '../../img/mobilo-2023.jpg';
 import { Poster } from '../Hero/styles';
 import { SiteNote } from '../styles';
 import Promo from './promo';
@@ -14,9 +14,9 @@ export default ({ images, dates = [], content }) => (
     <Poster style={{ paddingTop: '3.25rem' }}>
       <img src={hero2023} alt="Dr. Mobilo Aquafest 2023" />
     </Poster>
-    <Promo />
 
     <h1
+      id="spectacles"
       style={{
         textAlign: 'center',
         textTransform: 'uppercase',

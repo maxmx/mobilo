@@ -6,7 +6,7 @@ dates:
   - billet: 'https://www.universe.com/events/catherine-ethier-araigne-du-soir-tickets-9XJFL1'
     date: 2023-06-08T23:00:00.000Z
 
-poster: '/img/poster-catherine-ethier.jpg'
+poster: '/img/poster-catherine-ethier.png'
 scene: Théatre Fairmount
 artistes:
   - Catherine Ethier

@@ -6,7 +6,7 @@ dates:
   - billet: 'https://www.universe.com/events/katherine-levac-en-rodage-tickets-RB7J6W'
     date: 2023-06-06T23:00:00.000Z
 
-poster: '/img/poster-katherine-levac.jpg'
+poster: '/img/poster-katherine-levac.png'
 scene: Théatre Fairmount
 artistes:
   - Katherine Levac
