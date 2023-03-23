@@ -1,7 +1,7 @@
 ---
 templateKey: spectacle
 type: spectacle
-title: 'Rafaële Bolduc'
+title: 'Critique de la faculté de rire'
 dates: 
   - billet: 'https://www.universe.com/events/rafale-bolduc-tickets-F43897'
     date: 2023-06-02T23:00:00.000Z

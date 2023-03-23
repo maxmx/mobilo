@@ -4,6 +4,7 @@ import { Grid, Row, Col } from 'react-styled-flexboxgrid';
 import { Logo, NavContainer, NavLink } from './styles';
 
 const scroll = e => {
+  if (window?.location.pathname !== '/') return;
   e.preventDefault();
   document.getElementById('spectacles').scrollIntoView({
     behavior: 'smooth'
