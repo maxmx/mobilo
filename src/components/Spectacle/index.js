@@ -45,9 +45,15 @@ export default ({ title, scene, artistes = [], dates = [], content, poster }) =>
                   {palette => (
                     <>
                       <h3 style={{ color: palette.lightVibrant }}>Billets</h3>
-                      {dates.map(({ date, billet }) => (
+                      {dates.map(({ date, billet, badge }) => (
                         <TicketContainer key={date} between="xs">
                           <Col>
+                            {badge && (
+                              <>
+                                <span style={{ color: palette.lightVibrant }}>{badge}</span>
+                                <br />
+                              </>
+                            )}
                             {scene}
                             <br />
                             <TicketDay>{format(date, 'dddd D MMMM YYYY HH:mm', { locale })}</TicketDay>

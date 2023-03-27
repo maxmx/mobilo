@@ -12,4 +12,4 @@ artistes:
   - Sèxe Illégal
 
 ---
-Depuis plus de 50 ans, Sèxe Illégal fait peur aux bourgeois et pleurer la bizz. Maintenant qu’iels sont quatre, le groupe fait aussi danser les pauvres sur les mélodies disco-punk de leur dernier album : SpätkaDepuis plus de 50 ans, Sèxe Illégal fait peur aux bourgeois et pleurer la bizz. Maintenant qu’iels sont quatre, le groupe fait aussi danser les pauvres sur les mélodies disco-punk de leur dernier album : Spätkapitalismusik. Le double-duo légendaire vous invite à un dernier party pour célébrer l’effondrement planétaire imminent. ACAB. Safe-space inclusif. We punch Nazis.pitalismusik. Le double-duo légendaire vous invite à un dernier party pour célébrer l’effondrement planétaire imminent. ACAB. Safe-space inclusif. We punch Nazis.
+Depuis plus de 50 ans, Sèxe Illégal fait peur aux bourgeois et pleurer la bizz. Maintenant qu’iels sont quatre, le groupe fait aussi danser les pauvres sur les mélodies disco-punk de leur dernier album : Spätkapitalismusik. Le double-duo légendaire vous invite à un dernier party pour célébrer l’effondrement planétaire imminent. ACAB. Safe-space inclusif. We punch Nazis.

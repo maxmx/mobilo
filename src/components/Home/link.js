@@ -5,9 +5,9 @@ import { Margin } from 'styled-components-spacing';
 import Img from 'gatsby-image';
 
 import PlaceHolder from './placeholder';
-import { Artiste, Title, Time, Link, Day, Overlayer } from './styles';
+import { Artiste, Title, Time, Link, Day, Overlayer, Badge } from './styles';
 
-export default ({ title, day, time, poster, artistes = [], slug, first, last, color, index = 0 }) => (
+export default ({ title, day, time, poster, artistes = [], slug, first, last, color, badge, index = 0 }) => (
   <Link to={slug}>
     <Day data-color={color} data-first={first} data-last={last}>
       {first ? day : ''}
@@ -20,6 +20,7 @@ export default ({ title, day, time, poster, artistes = [], slug, first, last, co
             <Img fluid={poster} />
           </div>
         )}
+        {badge && <Badge>{badge}</Badge>}
       </Overlayer>
     </Margin>
     <p>

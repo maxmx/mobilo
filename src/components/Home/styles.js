@@ -117,3 +117,18 @@ export const Overlayer = styled.div`
     bottom: 0;
   }
 `;
+
+export const Badge = styled.span`
+  display: flex;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 85%;
+  text-align: center;
+  color: #da8371;
+  background-color: #0a1113;
+  padding: 0.25rem 1rem;
+  justify-content: center;
+  align-items: center;
+`;

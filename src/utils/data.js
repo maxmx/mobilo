@@ -13,11 +13,13 @@ export const toShow = ({
 export const toFlatShows = shows => {
   const flatShows = [];
   shows.forEach(({ dates, ...showprops }) => {
-    dates.forEach(({ date, billet }) => {
+    dates.forEach(({ date, billet, badge, soldout }) => {
       flatShows.push({
         ...showprops,
         date,
         billet,
+        badge,
+        soldout,
         day: format(date, 'dddd D MMMM YYYY', { locale }),
         time: format(date, 'HH:mm')
       });

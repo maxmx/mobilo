@@ -52,6 +52,8 @@ export const pageQuery = graphql`
             dates {
               billet
               date
+              badge
+              soldout
             }
           }
         }
