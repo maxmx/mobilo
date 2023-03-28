@@ -50,7 +50,7 @@ export default ({ title, scene, artistes = [], dates = [], content, poster }) =>
                           <Col>
                             {badge && (
                               <>
-                                <span style={{ color: palette.lightVibrant }}>{badge}</span>
+                                <span style={{ color: 'rgb(225 145 125)' }}>{badge}</span>
                                 <br />
                               </>
                             )}

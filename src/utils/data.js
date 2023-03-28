@@ -12,10 +12,11 @@ export const toShow = ({
 
 export const toFlatShows = shows => {
   const flatShows = [];
-  shows.forEach(({ dates, ...showprops }) => {
-    dates.forEach(({ date, billet, badge, soldout }) => {
+  shows.forEach(({ dates, poster, ...showprops }) => {
+    dates.forEach(({ date, billet, badge, soldout, poster: datePoster }) => {
       flatShows.push({
         ...showprops,
+        poster: datePoster || poster,
         date,
         billet,
         badge,
