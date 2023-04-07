@@ -9,7 +9,8 @@ dates:
 poster: '/img/poster-quai-des-rires.png'
 scene: Quai des brumes
 artistes:
-  - Brian Piton
+  - Oussama El Idmini
+  - Invité.e.s
 
 ---
 Présentée un lundi par mois au Quai des brumes, la soirée d'humour Au Quai des rires et animée et organisée par l'humoriste Oussama El Idmini. Comme pour chaque édition, les humoristes invité.e.s seront dévoilé.e.s le soir-même seulement!
