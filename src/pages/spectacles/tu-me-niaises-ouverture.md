@@ -1,7 +1,7 @@
 ---
 templateKey: spectacle
 type: spectacle
-title: 'Tue me Niaises - Soirée ouverture'
+title: 'Tu me Niaises - Soirée ouverture'
 dates: 
   - billet: 'https://www.universe.com/events/tu-me-niaises-soire-douverture-du-mobilo-tickets-MGXY20'
     date: 2023-06-01T23:00:00.000Z
