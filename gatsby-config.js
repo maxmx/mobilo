@@ -4,12 +4,16 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-react-helmet',
+
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingId: `UA-73055936-1`,
-        head: false,
-        respectDNT: true
+        trackingIds: ['G-WFL5VZKCXW'],
+        pluginConfig: {
+          head: false,
+          respectDNT: true,
+          exclude: ['/outils/**']
+        }
       }
     },
     {
