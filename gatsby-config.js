@@ -17,6 +17,14 @@ module.exports = {
       }
     },
     {
+      resolve: 'gatsby-plugin-google-tagmanager',
+      options: {
+        id: 'GTM-WDBX66G',
+        defaultDataLayer: { platform: 'gatsby' },
+        enableWebVitalsTracking: true
+      }
+    },
+    {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/src/pages`,
